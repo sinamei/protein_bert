@@ -1,0 +1,2 @@
+Test Loss (average per batch): 3.2325
+Test Accuracy (average over batches): 0.0963
